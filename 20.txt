@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 ibnihtnbhjinbtnjt4mnvp
+=======
+ibnihtnbhjinbtnjt4mnvp
+>>>>>>> View1
